@@ -39,10 +39,6 @@
   ## Contributing
   Andrea Augustin
 
-  ## Tests
-  I have an example test in the video.
-  [!assets](./assets/sql_gif.gif "SQL tracker test")
-
   
   ## Questions
   Contact me through email.
